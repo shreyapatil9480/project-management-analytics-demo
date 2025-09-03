@@ -2,7 +2,8 @@
 
 This repository showcases a complete data analytics project built around a **synthetic project management dataset**. It is designed to demonstrate analytical skills applicable to roles such as business analyst, program manager, or data analyst.
 
-## Dataset
+
+> **Note**: This repository demonstrates project management analytics for job seekers.## Dataset
 
 The dataset `synthetic_project_data.csv` contains 1,000 synthetic project records, each describing a single project with the following columns:
 
