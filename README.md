@@ -1,0 +1,33 @@
+# Project Management Analytics Demo
+
+Where are resources overallocated?
+
+**Stakeholder:** Resource Manager
+
+## Key Insights
+
+- Bench time under 4 hours/week signals overallocation risk.
+- Billable hours above 42/week precedes overallocation flags.
+- FTE above 1.2 on a single initiative raises overload probability.
+
+## Dataset
+
+Primary file: `data/resource_utilization.csv`  
+Target variable: `overallocated`
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/case_study.ipynb
+```
+
+
+## Next Steps
+
+Tune class weights and add SHAP explainability.
+
+---
+*Analytics portfolio project — 2025-09*
+
+<!-- build 5 -->
